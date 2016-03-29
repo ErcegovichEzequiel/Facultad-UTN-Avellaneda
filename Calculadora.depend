@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1458779330 source:c:\users\alumno.lab04pc21\desktop\hermes\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1458779806 source:c:\users\usuario\desktop\facultad\programacion c\clase 3\hermes\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
